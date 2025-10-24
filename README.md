@@ -1,5 +1,5 @@
 ## 🏏 Cricket T20 World Cup End-to-End Data Analytics
-
+![image alt](https://github.com/MohdRaza-Firoj-Deshpande/Cricket-T20-World-Cup-End-to-End-Data-Analytics/blob/ac673af9de2331ed4d958845adbc678134a098ea/1705477483937.jfif)
 ### 📊 Overview
 
 An end-to-end **sports data analytics project** using **Web Scraping (Bright Data)**, **Python (Pandas)**, and **Power BI**.
